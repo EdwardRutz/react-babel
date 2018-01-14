@@ -1,4 +1,6 @@
-React Hello World!
+React, Babel and other Software Tools
+
+[Deployed Site[(https://edwardrutz.github.io/react-babel/)
 
 A basic React app using Babel and presets.
 
